@@ -89,6 +89,8 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Vue.js App',
+      role: 1,
+      date: '2020-02-10'
     }
   }
 }
