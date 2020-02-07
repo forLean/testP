@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+	<p>yc</p>
   </div>
 </template>
 
@@ -12,12 +13,11 @@ export default {
       role: 1,
       date: '2020-02-10',
       tips: 'hellow',
-      color: 'red'
+      color: 'yellow'
     }
   }
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 </style>
